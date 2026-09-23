@@ -134,8 +134,8 @@ Live win-probability model for IPL matches, deployed as an interactive Streamlit
 
 I'm actively looking for **Data Science / AI Engineer** opportunities — feel free to reach out!
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Say_Hi-Email-red?style=flat-square&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/piyush-shakya-b62604303/"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+<a href="mailto:askpiyush016@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-Email-red?style=flat-square&logo=gmail"/></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Integenpiyush&color=blue&style=flat-square)
 
